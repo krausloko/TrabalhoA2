@@ -21,15 +21,15 @@ Função 'iblob' do Matlab é aplicada na imagem com a máscara.
 **Parte 4: Selecionar BLOBS**  
 Etapas de verificação para selecionar apenas blobs referentes ao caracteres.  
 **Parte 5: Organizar BLOBS**  
-Dispor blobs de acordo com a organização da placa.
+Dispor blobs de acordo com a organização da placa.  
 **Parte 6: Criar imagem do BLOBS**  
- A partir da localização dos blobs são criadas imagens dos caracteres.
+ A partir da localização dos blobs são criadas imagens dos caracteres.  
 **Parte 7: Carregar Modelos**  
- Carregar os modelos correspondentes a cada uma das letras e dos números.
+ Carregar os modelos correspondentes a cada uma das letras e dos números.  
 **Parte 8: Identificar BLOBS**  
- Com a imagem dos caracteres e os modelos a função de similaridade ZNCC faz uma comparação e encontra qual é o caractere.
+ Com a imagem dos caracteres e os modelos a função de similaridade ZNCC faz uma comparação e encontra qual é o caractere.  
 **Parte 9: Montar Placa**  
- Com os caracteres é criado um vetor de caracteres da placa.
+ Com os caracteres é criado um vetor de caracteres da placa.  
  
 Para ver o embasamento teórico e explicação detalhada do código basta ler o arquivo 'Relatório A2 - Visão Computacional.pdf'
 
