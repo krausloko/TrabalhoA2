@@ -49,11 +49,11 @@ Para ver o embasamento teórico e explicação detalhada do código basta ler o 
 ![placagit5](https://user-images.githubusercontent.com/35512686/40155083-237f0476-5968-11e8-9cac-97faa0e40040.png)  
  - Blobs Cidade:  
 ![placagit6](https://user-images.githubusercontent.com/35512686/40155084-23a9b392-5968-11e8-8f5b-f7a2d7a1a93f.png)  
-**Caracteres Identificados** 
- Letras e Números:  
+**Caracteres Identificados**   
+- Letras e Números:  
  "ABC1234"  
- Estado e Cidade:  
- "PR-CURITIBA  
+ - Estado e Cidade:  
+ "PR-CURITIBA"  
 ## Requirements:
 - Matlab R2016 ou mais recente
 - Machine Vision Toolbox - Peter Corke
