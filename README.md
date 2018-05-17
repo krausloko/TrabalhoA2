@@ -41,18 +41,18 @@ Para ver o embasamento teórico e explicação detalhada do código basta ler o 
  **Placa com Máscara**  
 ![placagit2](https://user-images.githubusercontent.com/35512686/40154966-a20e5324-5967-11e8-9d52-14dfa4f0ed1c.png)
  **Blobs Selecionados**    
- - Blobs Letras:
+ - Blobs Letras:  
 ![placagit3](https://user-images.githubusercontent.com/35512686/40154968-a2390826-5967-11e8-987e-3676b8f1e2a4.png)
- - Blobs Números:
+ - Blobs Números:  
 ![placagit4](https://user-images.githubusercontent.com/35512686/40154969-a2657122-5967-11e8-9d27-fd07f9cd9644.png)
- - Blobs Estado:
+ - Blobs Estado:  
 ![placagit5](https://user-images.githubusercontent.com/35512686/40155083-237f0476-5968-11e8-9cac-97faa0e40040.png)
- - Blobs Cidade:
+ - Blobs Cidade:  
 ![placagit6](https://user-images.githubusercontent.com/35512686/40155084-23a9b392-5968-11e8-8f5b-f7a2d7a1a93f.png)
 **Caracteres Identificados**    
- - Letras e Números  
+ Letras e Números:  
  "ABC1234"  
-  - Estado e Cidade  
+ Estado e Cidade:  
  "PR-CURITIBA  
 ## Requirements:
 - Matlab R2016 ou mais recente
