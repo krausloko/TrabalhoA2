@@ -15,13 +15,13 @@ A desevolvida função recebe uma imagem com a placa de um veículo e retorna os
 **Parte 1: Carregar/Tratar as Imagens**  
 A imagem da placa é carrega, o treshold é calculado e é aplicada uma máscara na imagem.  
 **Parte 2: Calcular Dimensões da Placa**  
-Calcular as a relação do comprimento com a altura para verificar qual o tipo de placa (carro/caminhão ou moto).
+Calcular as a relação do comprimento com a altura para verificar qual o tipo de placa (carro/caminhão ou moto).  
 **Parte 3: Encontrar BLOBS**  
 Função 'iblob' do Matlab é aplicada na imagem com a máscara.
 **Parte 4: Selecionar BLOBS**  
 Etapas de verificação para selecionar apenas blobs referentes ao caracteres.  
 **Parte 5: Organizar BLOBS**  
- Dispor blobs de acordo com a organização da placa.
+Dispor blobs de acordo com a organização da placa.
 **Parte 6: Criar imagem do BLOBS**  
  A partir da localização dos blobs são criadas imagens dos caracteres.
 **Parte 7: Carregar Modelos**  
