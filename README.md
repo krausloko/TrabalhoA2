@@ -1,9 +1,9 @@
-# Trabalho A2 - econhecimento de caracteres em placas de identificação de veículos
+# Trabalho A2 - Reconhecimento de caracteres em placas de identificação de veículos
 
 Segundo Trabalho da disciplina BLU3040 - Visao Computacional em Robótica, UFSC - Campus Blumenau
 
 ## Function:
-A desevolvida função recebe uma imagem com a placa de um veículo e retorna os caracteres alfanuméricos.
+A função desevolvida recebe uma imagem com a placa de um veículo e retorna os caracteres alfanuméricos.
 
 ## Quick start:
 <p>1- Fazer download completo do repositório.<p>
