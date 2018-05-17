@@ -17,7 +17,7 @@ A imagem da placa é carrega, o treshold é calculado e é aplicada uma máscara
 **Parte 2: Calcular Dimensões da Placa**  
 Calcular as a relação do comprimento com a altura para verificar qual o tipo de placa (carro/caminhão ou moto).  
 **Parte 3: Encontrar BLOBS**  
-Função 'iblob' do Matlab é aplicada na imagem com a máscara.
+Função 'iblob' do Matlab é aplicada na imagem com a máscara.  
 **Parte 4: Selecionar BLOBS**  
 Etapas de verificação para selecionar apenas blobs referentes ao caracteres.  
 **Parte 5: Organizar BLOBS**  
